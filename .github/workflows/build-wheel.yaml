@@ -26,8 +26,8 @@ jobs:
         platform:
           - linux/aarch64
           - linux/amd64
-          - linux/arm/hf
           - linux/arm/v7
+          - linux/armhf
 
     steps:
 
